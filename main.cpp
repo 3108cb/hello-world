@@ -1,6 +1,7 @@
 
 //Connor B
-// Description : Testing 
+// Description:Hello World in C++
+//============================================================
 
 #include <iostream>
 
